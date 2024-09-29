@@ -25,7 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B97FFA222CA99FE9008C8A69 /* daddy's home */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "daddy's home"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B97FFA222CA99FE9008C8A69 /* daddy's home */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = "daddy's home"; path = "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/Debug/daddy's home"; sourceTree = "<absolute>"; };
 		B97FFA252CA99FE9008C8A69 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B97FFA2C2CA9A2B0008C8A69 /* AudioInputManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioInputManager.swift; sourceTree = "<group>"; };
 		B97FFA2E2CA9A2E8008C8A69 /* Clapdetector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Clapdetector.swift; sourceTree = "<group>"; };
@@ -49,17 +49,8 @@
 				B97FFA2C2CA9A2B0008C8A69 /* AudioInputManager.swift */,
 				B97FFA2E2CA9A2E8008C8A69 /* Clapdetector.swift */,
 				B97FFA242CA99FE9008C8A69 /* daddy's home */,
-				B97FFA232CA99FE9008C8A69 /* Products */,
 				B97FFA332CA9A770008C8A69 /* Info.plist */,
 			);
-			sourceTree = "<group>";
-		};
-		B97FFA232CA99FE9008C8A69 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				B97FFA222CA99FE9008C8A69 /* daddy's home */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		B97FFA242CA99FE9008C8A69 /* daddy's home */ = {
@@ -114,7 +105,7 @@
 				Base,
 			);
 			mainGroup = B97FFA192CA99FE9008C8A69;
-			productRefGroup = B97FFA232CA99FE9008C8A69 /* Products */;
+			productRefGroup = B97FFA192CA99FE9008C8A69;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -197,6 +188,7 @@
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SYMROOT = "$(SRCROOT)/Products/Build";
 			};
 			name = Debug;
 		};
@@ -252,6 +244,7 @@
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SYMROOT = "$(SRCROOT)/Products/Build";
 			};
 			name = Release;
 		};

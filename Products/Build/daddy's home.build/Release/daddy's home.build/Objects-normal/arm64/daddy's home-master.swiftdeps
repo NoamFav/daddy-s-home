@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.4.52 clang-1600.0.21.1.3)"
+options: "98e6d61609d334576679b3412c1e5ea5e97587d12c4293b3cd073530a25cb448"
+build_start_time: [1727640768, 418096000]
+build_end_time: [1727640768, 930151000]
+inputs:
+  "/Users/noamfavier/Git_projects/daddy-s-home/AudioInputManager.swift": [1727626283, 510068711]
+  "/Users/noamfavier/Git_projects/daddy-s-home/Clapdetector.swift": [1727626283, 510164088]
+  "/Users/noamfavier/Git_projects/daddy-s-home/daddy's home/main.swift": [1727639988, 401344099]

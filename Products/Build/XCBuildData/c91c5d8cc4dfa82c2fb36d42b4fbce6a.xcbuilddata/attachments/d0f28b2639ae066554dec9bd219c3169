@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/daddy's home-master.swiftconstvalues",
+    "dependencies" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/daddy's home-master.d",
+    "diagnostics" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/daddy's home-master.dia",
+    "emit-module-dependencies" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/daddy's home-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/daddy's home-master-emit-module.dia",
+    "swift-dependencies" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/daddy's home-master.swiftdeps"
+  },
+  "/Users/noamfavier/Git_projects/daddy-s-home/AudioInputManager.swift" : {
+    "index-unit-output-path" : "/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/AudioInputManager.o",
+    "llvm-bc" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/AudioInputManager.bc",
+    "object" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/AudioInputManager.o"
+  },
+  "/Users/noamfavier/Git_projects/daddy-s-home/Clapdetector.swift" : {
+    "index-unit-output-path" : "/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/Clapdetector.o",
+    "llvm-bc" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/Clapdetector.bc",
+    "object" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/Clapdetector.o"
+  },
+  "/Users/noamfavier/Git_projects/daddy-s-home/daddy's home/main.swift" : {
+    "index-unit-output-path" : "/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/noamfavier/Git_projects/daddy-s-home/Products/Build/daddy's home.build/Release/daddy's home.build/Objects-normal/arm64/main.o"
+  }
+}
